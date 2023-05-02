@@ -32,10 +32,18 @@ This roadmap shall be starting from covering all the fundamental concepts to cor
 *The roadmap is inspired from **Ace the Data Science Interview** book by Nick Singh and Kevin Huo.*
 
 ### 1. SQL & DB Design
-Loading...
+I am following the [Coursera's SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) to learn SQL.
+
+**Check my SQL progress [here➡️](Folders yet to be added)!**
+
+*For free and thorough SQL end to end course, I suggest [Sumit Mittal's SQL playlist](https://www.youtube.com/watch?v=zAOUpVM6R6I&list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg) on Youtube.*
 
 ### 2. DSA
-Loading...
+I am studying the DSA following this [roadmap suggested by GeeksForGeeks](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/).
+
+I found it very intuitive compared to other resources. 
+
+**Check my DSA progress [here➡️](Folders yet to be added)!**
 
 ### 3. Probability
 Loading... 
