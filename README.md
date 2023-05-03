@@ -29,21 +29,41 @@ This roadmap shall be starting from covering all the fundamental concepts to cor
 4. [Statistics](#4-statistics)
 5. [Machine Learning](#5-machine-learning)
 
-*The roadmap is inspired from **Ace the Data Science Interview** book by Nick Singh and Kevin Huo.*
+\**The roadmap is inspired from **Ace the Data Science Interview** book by Nick Singh and Kevin Huo.*\*
 
 ### 1. SQL & DB Design
 I am following the [Coursera's SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) to learn SQL.
 
-**Check my SQL progress [here➡️](Folders yet to be added)!**
+\**For free and thorough SQL end to end course, I suggest [Sumit Mittal's SQL playlist](https://www.youtube.com/watch?v=zAOUpVM6R6I&list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg) on Youtube.*\*
 
-*For free and thorough SQL end to end course, I suggest [Sumit Mittal's SQL playlist](https://www.youtube.com/watch?v=zAOUpVM6R6I&list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg) on Youtube.*
+**Day 1:** 
+  1. What is SQL?
+  2. History of data models
+  3. Relational vs Transactional Databases
+  4. Creating tables 
+  5. Retrieving data using Select 
+  6. Data modeling and ER diagrams
+
+**Day 2:**
+  1. Basics of filtering with SQL
+  2. Avanced filtering using IN, AND, OR
+  3. USING WILD CARDS IN SQL ("%, _")
+  4. Sorting columns using ORDER BY
+  5. Grouping data using GROUP BY
+  6. Aggregate functions (MIN, MAX, SUM, COUNT, AVG)
+
 
 ### 2. DSA
 I am studying the DSA following this [roadmap suggested by GeeksForGeeks](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/).
 
 I found it very intuitive compared to other resources. 
 
-**Check my DSA progress [here➡️](Folders yet to be added)!**
+**Day 1**
+  1. [Time Complexities and Space complexities](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+    - [Practice Questions](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
+  2. [Asymptotic Analysis](https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)  
+    - Why performance analysis?
+    - Is this method feasible?  
 
 ### 3. Probability
 Loading... 
