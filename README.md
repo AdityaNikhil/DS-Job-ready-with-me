@@ -59,9 +59,10 @@ I am studying the DSA following this [roadmap suggested by GeeksForGeeks](https:
 I found it very intuitive compared to other resources. 
 
 **Day 1**
-  1. [Time Complexities and Space complexities](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+1. [Time Complexities and Space complexities](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
     - [Practice Questions](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
-  2. [Asymptotic Analysis](https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)  
+
+2. [Asymptotic Analysis](https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)      
     - Why performance analysis?
     - Is this method feasible?  
 
