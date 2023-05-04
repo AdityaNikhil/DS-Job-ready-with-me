@@ -52,7 +52,7 @@ I am following the [Coursera's SQL for Data Science](https://www.coursera.org/le
   5. Grouping data using GROUP BY
   6. Aggregate functions (MIN, MAX, SUM, COUNT, AVG)
 
-  [Key Takeaways](Link to the custom readme folder here!)
+**⭐[Key Takeaways](1.%20SQL%20%26%20DB%20Design/Key_Takeaways.md)**
 
 
 ### 2. DSA
