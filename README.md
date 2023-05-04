@@ -36,7 +36,7 @@ I am following the [Coursera's SQL for Data Science](https://www.coursera.org/le
 
 \**For free and thorough SQL end to end course, I suggest [Sumit Mittal's SQL playlist](https://www.youtube.com/watch?v=zAOUpVM6R6I&list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg) on Youtube.*\*
 
-**Day 1:** 
+**Track 1:** 
   1. What is SQL?
   2. History of data models
   3. Relational vs Transactional Databases
@@ -44,13 +44,15 @@ I am following the [Coursera's SQL for Data Science](https://www.coursera.org/le
   5. Retrieving data using Select 
   6. Data modeling and ER diagrams
 
-**Day 2:**
+**Track 2:**
   1. Basics of filtering with SQL
   2. Avanced filtering using IN, AND, OR
   3. USING WILD CARDS IN SQL ("%, _")
   4. Sorting columns using ORDER BY
   5. Grouping data using GROUP BY
   6. Aggregate functions (MIN, MAX, SUM, COUNT, AVG)
+
+  [Key Takeaways](Link to the custom readme folder here!)
 
 
 ### 2. DSA
@@ -65,6 +67,8 @@ I found it very intuitive compared to other resources.
 2. [Asymptotic Analysis](https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)      
     - Why performance analysis?
     - Is this method feasible?  
+
+[Key Takeaways](Link to the custom readme folder here!)
 
 ### 3. Probability
 Loading... 
