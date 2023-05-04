@@ -1,3 +1,7 @@
+# Key Takeaways
+Here I'll be covering all the points that I found useful and important to remember for future references. 
+
+### Track 2
 1. Benefits of **filtering data**, 
    1. Reduce the time it takes to run the query
    2. Reduces the strain on the client application
