@@ -68,6 +68,8 @@ I found it very intuitive compared to other resources.
     - Why performance analysis?
     - Is this method feasible?  
 
+<img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/mypic.png' width='500' height='200'>
+
 [Key Takeaways](Link to the custom readme folder here!)
 
 ### 3. Probability
