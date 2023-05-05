@@ -60,7 +60,7 @@ I am studying the DSA following this [roadmap suggested by GeeksForGeeks](https:
 
 I found it very intuitive compared to other resources. 
 
-**Day 1**
+**Track 1**
 1. [Time Complexities and Space complexities](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
     - [Practice Questions](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
 
@@ -69,6 +69,14 @@ I found it very intuitive compared to other resources.
     - Is this method feasible?  
 
 <img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/mypic.png' width='500' height='200'>
+
+**Track 2**
+1. Introduction to Arrays
+    - [Search, insert and delete in an unsorted array](https://www.geeksforgeeks.org/search-insert-and-delete-in-an-unsorted-array/)
+    - [Search, insert and delete in a sorted array](https://www.geeksforgeeks.org/search-insert-and-delete-in-a-sorted-array/)
+    - Moving negative values to one side of an array
+    - Merging two sorted arrays
+    - Finding specific sub-sequences of integers within the array, such as longest sub-sequence or consercutive subsequence with the largest sum
 
 [Key Takeaways](Link to the custom readme folder here!)
 
