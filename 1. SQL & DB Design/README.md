@@ -69,4 +69,17 @@ Here I'll be covering all the points that I found useful and important to rememb
    
 
    *There are 3  matching 'f' records with 3 different numeric values in numbers column that are sorted in ascending order.*
+   
+   
+   ### Track 3
+   1. Joins tend to execute faster. In fact, query retrieval time using joins will almost always outperform one that employs a subquery. The reason is that joins mitigate the processing burden on the database by replacing multiple queries with one join query. 
+[Source](https://www.navicat.com/company/aboutus/blog/1704-joins-versus-subqueries-which-is-faster#:~:text=I%20won't%20leave%20you,queries%20with%20one%20join%20query.)
+   2. There is no limit to the number of table you can join with an inner join.
+   3. Inner joins are one of the most popular types of joins use.
+   4. Performance will most likely worsen with the more joins you make.
+   
+  **UNIONS**
+   1. The columns must also have similar data types
+   2. The UNION operator is used to combine the result-set of two or more SELECT statements
+   3. Each SELECT statement within UNION must have the same number of columns
 
