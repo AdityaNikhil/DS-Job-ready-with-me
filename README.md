@@ -52,6 +52,13 @@ I am following the [Coursera's SQL for Data Science](https://www.coursera.org/le
   5. Grouping data using GROUP BY
   6. Aggregate functions (MIN, MAX, SUM, COUNT, AVG)
 
+**Track 3:**
+  1. Subqueries & Joins
+  2. Cartesian cross joins
+  3. Inner Join, Outer Join
+  4. Left outer join, right outer join
+  5. UNION, INTERSECT 
+
 **⭐[Key Takeaways](1.%20SQL%20%26%20DB%20Design/README.md)**
 
 
