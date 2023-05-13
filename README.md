@@ -91,7 +91,10 @@ I found it very intuitive compared to other resources.
 Loading... 
 
 ### 4. Statistics
-Loading... 
+  1. Univariate, bivariate, multivariate analysis
+  2. Histograms
+  3. Z Score 
+  4. PDF, CDF
 
 ### 5. Machine Learning
 Loading...
