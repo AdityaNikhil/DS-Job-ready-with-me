@@ -98,7 +98,7 @@ I found it very intuitive compared to other resources.
 
 Problems: **[EASY]**
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-2. [Two Sum](https://leetcode.com/problems/two-sum/) 
+2. 🤔[Two Sum](https://leetcode.com/problems/two-sum/) 
 3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 4. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
