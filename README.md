@@ -52,14 +52,25 @@ I am following the [Coursera's SQL for Data Science](https://www.coursera.org/le
   5. Grouping data using GROUP BY
   6. Aggregate functions (MIN, MAX, SUM, COUNT, AVG)
 
+**⭐[Key Takeaways](1.%20SQL%20%26%20DB%20Design/README.md#track-2)**
+
 **Track 3:**
   1. Subqueries & Joins
   2. Cartesian cross joins
   3. Inner Join, Outer Join
   4. Left outer join, right outer join
   5. UNION, INTERSECT 
+  
+**⭐[Key Takeaways](1.%20SQL%20%26%20DB%20Design/README.md#track-3)**
 
-**⭐[Key Takeaways](1.%20SQL%20%26%20DB%20Design/README.md)**
+**Track 4:**
+  1. CONCATENATE(||)
+  2. TRIM, LTRIM, RTRIM
+  3. SUBSTR
+  4. UPPER(UCASE also can be used)
+  5. LOWER
+
+**⭐[Key Takeaways](1.%20SQL%20%26%20DB%20Design/README.md#track-4)**
 
 
 ### 2. DSA
@@ -84,6 +95,12 @@ I found it very intuitive compared to other resources.
     - Moving negative values to one side of an array
     - Merging two sorted arrays
     - Finding specific sub-sequences of integers within the array, such as longest sub-sequence or consercutive subsequence with the largest sum
+
+Problems: **[EASY]**
+1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+2. [Two Sum](https://leetcode.com/problems/two-sum/) 
+3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+4. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 [Key Takeaways](Link to the custom readme folder here!)
 
