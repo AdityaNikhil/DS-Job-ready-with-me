@@ -78,10 +78,40 @@ Here I'll be covering all the points that I found useful and important to rememb
    3. Inner joins are one of the most popular types of joins use.
    4. Performance will most likely worsen with the more joins you make.
    
-   ![SQL_JOINS](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MVn8J2YBQwKw1uo-utNNtg_20f2ccb19b264df894ca4c9f442e8fa1_LEFT-2Bvs-2BRight-2BOuter-2BJoin-2Bin-2BSQL.png?expiry=1684108800000&hmac=OqaTnCIuyCEiiIZ3Vi-zRyr6t_pgckWlDCCs8HVKdFk)
+   <img src='https://shipengfei92.github.io/assets/img/joins.png' width='500' height='300'>
+   
+   *Source: Coursera*
    
    **UNIONS**
    1. The columns must also have similar data types
    2. The UNION operator is used to combine the result-set of two or more SELECT statements
    3. Each SELECT statement within UNION must have the same number of columns
+
+
+### Track 4
+**Concatenating example:**
+```
+SELECT CONCAT(col1, col2) FROM table1;
+out:
+col1_1 col3_1
+col1_2 col3_2
+```
+*Or you can use '||' or '+' which is used in SQL Server.*
+
+**Substring example:**
+```
+SELECT FirstName, SUBSTR(val, val_pos, total_chars) FROM table1;
+SELECT FirstName, SUBSTR(FirstName, 2, 4) FROM table1;
+
+out:
+Aditya dity
+```
+**Datetime:**
+
+Datetimes varies with every database. So it's a good practice to look up   for the date type of that specific dbms.
+
+**CASE:**
+
+CASE can be used in SELECT, INSERT, UPDATE and DELETE stmts.
+
 
