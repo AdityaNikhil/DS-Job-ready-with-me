@@ -69,6 +69,9 @@ I am following the [Coursera's SQL for Data Science](https://www.coursera.org/le
   3. SUBSTR
   4. UPPER(UCASE also can be used)
   5. LOWER
+  6. Datetime
+  7. Views
+  8. CASE stmts
 
 **⭐[Key Takeaways](1.%20SQL%20%26%20DB%20Design/README.md#track-4)**
 
@@ -101,6 +104,9 @@ Problems: **[EASY]**
 2. 🤔[Two Sum](https://leetcode.com/problems/two-sum/) 
 3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 4. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+Problems: **[Medium]**
+1. [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 [Key Takeaways](Link to the custom readme folder here!)
 
