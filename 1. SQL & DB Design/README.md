@@ -110,8 +110,14 @@ Aditya dity
 
 Datetimes varies with every database. So it's a good practice to look up   for the date type of that specific dbms.
 
+![image](https://github.com/AdityaNikhil/DS-Job-ready-with-me/assets/30192967/0d671bae-a2bf-4e84-a317-df4a4e8ab5ef)
+
+
 **CASE:**
 
 CASE can be used in SELECT, INSERT, UPDATE and DELETE stmts.
+
+![image](https://github.com/AdityaNikhil/DS-Job-ready-with-me/assets/30192967/ecbf32f1-ef9f-49db-9bc7-e45e2d8d2425)
+
 
 
