@@ -106,7 +106,7 @@ Problems: **[EASY]**
 4. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 Problems: **[Medium]**
-1. [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
+1. 🤔[Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 [Key Takeaways](Link to the custom readme folder here!)
 
