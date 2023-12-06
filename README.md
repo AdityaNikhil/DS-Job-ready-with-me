@@ -1,5 +1,5 @@
 # DS-Job-ready-with-me 
-### PS: It is a work in progress. Make sure to raise an issue if you're interested in contributing.
+### PS: It is a work in progress. Contributions are welcome!🌟
 
 This is a repo created to getting job ready within the field of Data Science/Machine Learning.
 
