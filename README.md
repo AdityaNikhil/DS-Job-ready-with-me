@@ -1,13 +1,12 @@
-# DS-Job-ready-with-me
-This is a repo created to getting job ready within the field of Data Science/Machine Learning.
+# DS-Job-ready-with-me 
+### PS: It is a work in progress. Make sure to raise an issue if you're interested in contributing.
 
-This is an 8 months roadmap to geting placed in the field of DS. 
+This is a repo created to getting job ready within the field of Data Science/Machine Learning.
 
 ---
 
 ## Background
 I am an international student currently studying in Northeastern University pursuing Masters in Applied Machine Intelligence course. I am passionate about data science and have done several projects over the past and even interned at a few organisations.
-Being an international student, **I currently have 8 months** from now to landing an internship. Here, I'll be **posting all the resources** I'll be using to landing an internship successfully. 
 
 \**This repo shall serve as my personal preparation journey to getting placed. I hope it helps you too.*\*
 
